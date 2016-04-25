@@ -1,0 +1,19 @@
+/* Empty. Add your own CSS if you like */
+#map{height: 100%;width:100%}
+.scroll {height: 100%;}
+.usttegoster{position:absolute;top:0;right:0;z-index:99;color: red;text-shadow: 0px 1px 1px #000;}
+.item.kategori-item{height: 150px;
+color: #fff;
+background-repeat: no-repeat;
+background-origin: border-box;}
+.item.kategori-item h2{font-size:20px;font-weight: bolder;color:#fff;text-shadow:1px 0px 3px #000;}
+a.item.item-anamenu {
+    height: 200px;
+    width: 50%;
+    float: left;
+}
+a.item.item-anamenu h2{ color: #fff;
+    font-size: 25px;
+    text-shadow: 2px 2px 4px #000;
+    position: absolute;
+    top: 80px;}

@@ -1,0 +1,9 @@
+<ion-view view-title="ANAMENU">
+  <ion-content>
+    <ul class="list">
+        <a ng-repeat="sayfa in sayfalar" ui-sref="{{sayfa.baglanti}}" class="item item-anamenu" style="background-image: url('{{sayfa.resim}}');background-size: cover;">
+          <h2>{{sayfa.baslik}}</h2>
+        </a>
+    </ul>
+  </ion-content>
+</ion-view>
