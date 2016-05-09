@@ -69,7 +69,33 @@ angular.module('starter.controllers', [])
             });
           });//google.maps.event.addListenerOnce($scope.map, 'idle', function(){
         //////ETRAFIMDAKİ CAFELERİ GETİRME
-        $scope.cafeleriGetir=function(){islemler.yakinYerler(position.coords.latitude, position.coords.longitude);}
+        $scope.cafeleriGetir=function(){
+          var Promise=islemler.yakinYerler(position.coords.latitude, position.coords.longitude);
+          console.info(Promise);
+          for(cafe in Promise)
+          {
+            console.log(cafe);
+          }
+          //console.info(yerler);
+          //HARİTAYA MARKER EKLEME
+          /*
+          google.maps.event.addListenerOnce($scope.map, 'idle', function(){
+              //yerlerin eleman sayısı kadar maker ekleyeceğim....
+              var marker = new google.maps.Marker({
+                  map: $scope.map,
+                  animation: google.maps.Animation.DROP,
+                  position: latLng
+              });
+              var infoWindow = new google.maps.InfoWindow({
+                  content: "Şuan Burdasın..."
+              });
+              google.maps.event.addListener(marker, 'click', function () {
+                  infoWindow.open($scope.map, marker);
+              });
+
+            });//google.maps.event.addListenerOnce($scope.map, 'idle', function(){
+            */
+        }
         ////////////////
       }, function(error){
         //pozisyon degeri gelmeyince yapılacaklar
@@ -84,10 +110,10 @@ angular.module('starter.controllers', [])
 })
 .controller('AnamenuCtrl', function($scope) {
   $scope.sayfalar=[
-    {'baslik':'MENU1','resim':'/img/bg1.jpg','baglanti':'app.harita'},
-    {'baslik':'MENU2','resim':'/img/bg2.jpg','baglanti':'app.browse'},
-    {'baslik':'MENU3','resim':'/img/bg3.jpg','baglanti':'app.seacrh'},
-    {'baslik':'MENU4','resim':'/img/bg4.jpg','baglanti':'app.kategori'}
+    {'baslik':'MENU1','resim':'img/bg1.jpg','baglanti':'app.harita'},
+    {'baslik':'MENU2','resim':'img/bg2.jpg','baglanti':'app.browse'},
+    {'baslik':'MENU3','resim':'img/bg3.jpg','baglanti':'app.seacrh'},
+    {'baslik':'MENU4','resim':'img/bg4.jpg','baglanti':'app.kategori'}
   ];
 })
 .controller('KategoriCtrl', function($scope) {

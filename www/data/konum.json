@@ -1,0 +1,550 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-QAAAM7Sf0xQPaGfU15lHiHkgTA9h-cKEWAc9IF7SliUHdDmRVO2Hkz3OKB1Yy3B7IeGJd23n813B6s11XqMkqgFatR8zMJk4dasBd9IVeV2js9Sh4U4hYGMYs-wOP6mm-U7Gy93PCLNiuABbwE68DwO2tenUq27yi3GeezdTuxGpkxA4fsiXU9cpKf8Wqp-7xJ9L69ZYCL5qmYHB11z8lMv0LsaQtZS95sWXFuPRYuS7_Cx0wVVFOJdV4ZKWxs4hBK_c0obxKtQpw5WX3_NA54ZSeiTzpP95T-6yZHkp8RA6oS-vFj4lcCxvmH-2dRFsI0OlP-7tbLetbMl_SAGN7732hwSEH1zW2OuLS0nvPrqI3AMHHwaFEnvQARUO0g9DBYumYpZ0j4U-3EF",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.53467399999999,
+               "lng" : 31.996994
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "78bd9e90b55cab7cca503a41286703aa56360131",
+         "name" : "Hotel Villa Turka",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112803367193965752338/photos\"\u003eHotel Villa Turka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAAf2hnU1d5ofx_1gcD1Bg_8zTun9nrPfM5jgNHqIjikx3Uc87UdJCFIq9FQjeufWwTZhdiQAZyOmolIupBb1HUWFkGFtjVvWolpP2RruoUdwWjAgqEak-WzmgeGK3iP5iEhCgTX69BnyhcQacBscvy2MjGhRIg5mlup9-FXccOiiaowNn-B0YUQ",
+               "width" : 1368
+            }
+         ],
+         "place_id" : "ChIJyfiSwHSY3BQRrQwpNuzUIco",
+         "rating" : 4.4,
+         "reference" : "CnRlAAAAvylHqOYqe2uK2rjlLBIEdrlFj5q8Uwhma9gp-9uVoSD27fozcnKbouQRmEh0lggnIyXn4J5Flzf7VH9vSC5hSvaelOTVUPcRmSDDGyh7JxCWWTXFGd4ABQ8h0LQZ6ohGARjL8ohH3VadQxo5ck31_BIQdOSTn_Y0v-cSnAQKHB6lsRoUWJuGTs8014HgQSMLHV0OdrusRUY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Tophane Mah. Kargı Sk. No:7, Alanya"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.544628,
+               "lng" : 31.99547089999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "8e553dd2a282ad3bcb16b62064bca25a9099f884",
+         "name" : "Mado",
+         "photos" : [
+            {
+               "height" : 922,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111852112666131234053/photos\"\u003eserdar şen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAV1ss2wgZg6nfmrmdv_esxi_d68Q3BT4ieinvFn9SDJFr5_OOCklgbvGfCz4KxP6vvxrKULwJChuzLvbHT4ia3U-hCO54HVf_KgEg05AkDZLtBWIr8e8TuArP-YHuvfAjEhA_ZOQYerwhWjcwcmdSwZoSGhQVUbMDYXAl3DUo0ERcLgeNNwtnQQ",
+               "width" : 778
+            }
+         ],
+         "place_id" : "ChIJB_GnM3iY3BQRXzalwtOu6nA",
+         "rating" : 4.3,
+         "reference" : "CmRXAAAAQ-23KQQ7y9CZknWZSx9UxcKvCqpU_9dmHWyzColJ9fLn4dheeq9WMXN4Pvr6BzWTOQKfC8_GdTuuU7nw2Zp-8-V08AsD_Z03Aw9icbr07UlLp2KPCasln2ee6c5kFTNhEhDrjsIJ-ZjfN_ovATBb3urzGhQzgcVeaWl7bukuGeKk99Xd-y0Iuw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Alanya, Kadıpaşa Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.543466,
+               "lng" : 32.00055500000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "218f49e7312127037a2ff64e24ac8535c75b537f",
+         "name" : "HANCI Pastanesi ( Atatürk Cad. Şube )",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 695,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116361547049556774937/photos\"\u003eHANCI Pastanesi ( Atatürk Cad. Şube )\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAjQKYRiLUWtfBEjljRVlpyxZv7mDU46EjElbiKA1WCe7BaBBG-N3vxJ3xNo0KWcTBAWiYEQtjctZVxtFhhCBvCVk3kTxpX9lIX_t_ILdzrxSC6oGplBdSBKe3gLXGdWKUEhB6MSPUcz21tEJ_V8RbtW52GhQGMNzasi5MmtFNfr4jbPFF3e2_aA",
+               "width" : 1046
+            }
+         ],
+         "place_id" : "ChIJUacWaHqY3BQRaaeHk0hd0Tg",
+         "rating" : 4.1,
+         "reference" : "CoQBegAAACo76eOB9QyX8vkGUlJGIPk-3ekTKKNmskov_NktbZ3R12B_lc1ZcAncWZRUx-ct7IUNSyBofVEyLQWmg0j3A9uPiNSzCEACpQNgjTNaawmDPfcvY0V-HUZJNvTZ__d3tbrNDuS6OjyqOWi6uO-iBaPm8y56NDGpdsT652GuKEQUEhCZJhUhFYA_pwchyroBWeciGhRIAcO9vLIKyTsCME-lQoh5yzreYQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "9. Sokak"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.54720489999999,
+               "lng" : 32.00711959999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4894ce33601ca673f5623abc1779bc8c698209b4",
+         "name" : "HANCI Pastanesi ( Hacet Şube )",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 695,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107684277739548752751/photos\"\u003eHANCI Pastanesi ( Hacet Şube )\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAJ80zzJxI4kTMQY0vVhqLzqIkKABjaaOyEGOeHfbQThV3oZYdn4G_TeupwlqjT6ReFal4xt8YMbdZ_xnKrgUKKaYu14AHsH-2m6Jh9EvDUndzA98e_iDrrpy-BR_hpjKbEhC1tWfv9XSYU0qBCztVrRNQGhRkq89LvVGmdFMo9PqhYx0pmk5rug",
+               "width" : 1046
+            }
+         ],
+         "place_id" : "ChIJlcpBqGOY3BQRAZ0_2l4rT_U",
+         "reference" : "CoQBcwAAAIzRh8j2MfoE8ddVrHLo9PKsZUykBNMyJU-AjTNFX6ajS8L6Ko0Ilb2QUsftOdV2HDtxHSn99f2oGwhNnMi6d91kCjo1x-nKgfJaqOxuI7u2O97YHeUXJadTcqSdDpn15ABXbolTOeVUewSmSBvlyE3w1TSaaUTDebSfME2wFFSwEhD-2vq4L5WK-5Z0mbUmG3sVGhTq1e0x-fIFkRA1PGwSgEELffWNlA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Güller Pınarı Mahallesi, Hasan Akçalıoğlu Caddesi No:12"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.538979,
+               "lng" : 31.99788400000001
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "0ae4f3eae8db0afc0e23280dbe1dfcfd99b6136f",
+         "name" : "Cafe Mai",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117758397096948051228/photos\"\u003eberti monika Lang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAASczpjfk6bHSnNYpQsmVrZHaPMd_sBQdWmfUk9xxBCUKaay-qEC7WDzjb3oLrFVrzTY_cWVP6FqPG7kFmmH1RFioDOsuXAFokzPSKD2tGpgWtGxEvEK2KHtSPhPtIc0REhDOjJ7nQ_YofXYeJJ7rriQlGhSL85b5NutVWnXl5iWPGsLzj4J-Rg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJx_5csHaY3BQRtythw9N5dz8",
+         "reference" : "CmRbAAAAKjG9wyvMMegOlHr-rXPGMXhWosK0vNCnPCU4b_-imO2PjckrDm1sd83YGnUwSdKMKrYLNQFOYj2gOVN0FsJMWyh0RruGIYrWCIw-1qP90OyfzMnd5n53LgBd4E80nMNkEhAfuzCMPVy2KEfw2ZeZ18rNGhRJyhndBKHRFvso0IsgIk9kVk5twg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Alanya, Çarşı Mahallesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.539064,
+               "lng" : 32.03815649999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "b8e73854c203c5318d0dbc0ffc6349c8e5abc3f3",
+         "name" : "Mado",
+         "place_id" : "ChIJD-7vMlWY3BQReokND3_X48I",
+         "reference" : "CmRYAAAAAzY2Yul_NV_9za3RK7JBlZAroMSkrh5ZYnOEmExp2X56AC1lVQoFc2V7L1vBbqI0sGGOQNyIbP6TDeoF0YG5nhpfITlevmgLwtnWzCoqVECtUnGqEOlK_ds6EmEiKdbwEhCMH96s2XG8FMFKkTjHspwrGhRJonSC9ekswv4WFOkEgXdWIrwyKQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Atatürk Cad. No:48/D"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.550094,
+               "lng" : 32.019379
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e3941be4de8f8dec0e238cfa0fec842e4a1a6bb6",
+         "name" : "Pınar Su-alanya Bayi",
+         "place_id" : "ChIJ_SzqafSY3BQRu8QyokbQbhU",
+         "reference" : "CnRoAAAA_U8ii9-2W_2cgY3wt7SCnubNjrEqq5qVbPKx4-QHB3Q-FfNRbZHwQnqGJcwaOZt7jHEwMRarayx9bRC2TofD1TYPtagLsQGrjhjZkWN_XSeX0Y_f9VMuLHdclbEq3y3KlTbqtNRfX_h7fKPFHwAvlBIQpFiuvGFV9dfeMu7HJXs5VBoUrWwcHM-ERKfiZXyev_0B7cmP4lg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Fığla Mahallesi, Akın Sokak"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.544359,
+               "lng" : 32.011067
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e554706c8ff98e46009669601a3ec95754109dc6",
+         "name" : "restacafe Milk & honey",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 717,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100539176125036052845/photos\"\u003erestacafe Milk &amp; honey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAVO1EB8NtL7fi1zUX7l-4Y1adjMGDcgQWDt8aPiI6DTMX5cixEfg7KLa5VoKZlL99OJD5SxMNJluT6ZUu_6B5EdG6tg47zPC8MgqDSGk6c6v5USxPgwxtny0p2TzGXoG9EhBxsoLD6s9ybNxiTUkpiBR_GhRlrokhESVYZ8Mwm_0i03hmtZf6Zg",
+               "width" : 717
+            }
+         ],
+         "place_id" : "ChIJxe2mS2GY3BQRBl3FoRbh9LY",
+         "reference" : "CnRqAAAAdqJkDR7mZ2GtDfIgfdivLYeOkB-qI-kfjHpQmprX4Xr5bQYPhTvHmEEDumz5muoU_ea1tguAw6SB4xvab1DAE-arI53-VBJSGWzOwtrUPnwfURTd3BVhK6TRKdDzPwI9ZuWeoWpRAbUW6VbikZeEiRIQFrobSt4MyJDklvkiuIORWhoUmwqgS8YWZJby_uZjWB6MpeMz_9o",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "NO: D, Güller Pınarı Mahallesi, Yenilmez Caddesi No:3"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.5430618,
+               "lng" : 32.0010603
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d6ce4fea1f12ed85d8f0dc9b541b8c83baee4e7d",
+         "name" : "Karikatür Bi Kafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113329943194251300460/photos\"\u003egurhan gurhan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAXh-OdNni05OttbZval93-4JDAefBf_Kbheia1UlhLqQzE-HpXHF_wCeVfVbU41wTpaev_-Zt39rqR-zJ2cNSVkOslq83-Cn1Df8ZQbJL1Yd12dE2xjxLwo3NUEPlHX0sEhD_0PaLdlt9cNUxo0PFzpgZGhSUlXpOkDyFO-_4vvnErc5Xs5o4sQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJAc0M8XqY3BQRhnTjIxbRmOw",
+         "reference" : "CnRmAAAAojDdNTTc18jol7XLUrPde9Id0nfDlRDiCb-DtIV_Le0c3G0zOU0_GwC31Nsd0qFb8o6ZM-cklpnSaopCi0yrkK52w6-CVb_NMiGYwJ7aRRa41tE5HaKJr1nbnHq1aTSjI5KLU2XDH6JUIic9FHZ9KxIQeEvcM_wUaChZCnbTJ5Q9qRoUJk_OwP2mephCLiS21JC7l200trk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Şekerhane Mahallesi, Hükümet Caddesi No:79"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.54352,
+               "lng" : 32.001007
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2e4a9160b6ec11556d450c2b4cafe51a3a6a2df6",
+         "name" : "Starbucks",
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110736674210281719012/photos\"\u003eJosbert Lonnee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAWOq5FVZaffcGC86RGCvkrqUniyq_ud5tNLSC3OEvEJQpcNx6kJ2-QERkvzKf5xEZO2NXkyOERsvKhdfu7ZX9sJu-NSbMQSa_aGS55yiC1gey0YYyQ0fQ7ihGQaGccleSEhCXaVRXsBTcd0CoCqeBQa72GhTQvlqp-Gr3B5V7WIzDDffpiCAQeA",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJXfZ7XnqY3BQRBM4PGd_FfQY",
+         "price_level" : 2,
+         "reference" : "CmRcAAAA-edpIHmy2cULO5G_BArmr_Jcm6FC5P5ph5kbQRsiIzMOH8JwRsgzY65TfzbyAUiiZMhUcrfZlVojyHGT7n3LVMIR8VzNJkJCIWKI4OLjthYVcCDfExPf-HlgTHfz-1pyEhDjTOI3ffxk0Fx_A2C5MrPDGhTyW-ZgjjyoKqgz_Qjr78IaDlnStw",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Şekerhane Mahallesi, Atatürk Bulvarı"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.537878,
+               "lng" : 31.998487
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "a34fd74e0e167ed4ff6bc94d58e091f780722341",
+         "name" : "Merlot Cafe",
+         "place_id" : "ChIJmTadAHSY3BQRkhuSXLenMSM",
+         "reference" : "CmReAAAA_NT5mn2DeoQVKvDvr-LeLxaptlPbXFJb-UmLmH5WTvENI8SBMgXf-yE0znuuMYoS2r18X_Qv5eQUiKUGjKga9o7Hws3CiaTVdfsQyw42GEA9CcwvBn_4MBvc2LGn1vyIEhDKJB6DEXJ3c4iDpsViIwDqGhQcr2_VrHW-A_htyJ40vVxgLNywUA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Çarşı Mahallesi, Rıhtım Caddesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.539879,
+               "lng" : 31.998014
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d1a597b5106ce2fa1234a4dcebfd4aaa44701e76",
+         "name" : "Sweet-My Waffle Cafe & Bistro & İce Cream",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110283927991935767352/photos\"\u003eSweet-My Waffle Cafe &amp; Bistro &amp; İce Cream\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAJSSr74zULhmgUvoN_OM_V9AQ1xdc6HalGLubUzw-XWkV207MJrdiIDkmseJjBlNX2KoTbEgdRmt-1v5EWYCUR4U_u7hCNZkleIwhbrrauXrcfjJQmdtAqbctNI0yPOU0inm3ZOzu6D921Y5OyD6GgjYNhw1ZTQ1i55t-Lvpn5LCEhAB80eaD7xK4zLr0wr3B1CFGhRBY-qhwaptZ7ctnnRewkjxd9y3XQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJmWmZ0XaY3BQR9QhEaRdXsII",
+         "reference" : "CoQBfgAAAKSX27DTbbCWxZDsHfbA-bhlb6bXpUkzz7TTWk9uGj_k08_MV5bQx6-meVxngGfQDwY8Q_KgQT6e4lWpcbDta755kN7CvuBOrHCvTW2l6Vv0TWxd3SCyt42HmorD5Ii2MRbsm-ew28iU_Bm3PWtlV1PSI6uXhFy3R-2GH5v2q1AJEhBSLK3dcrTvDi1C-IwHT_5iGhTRt27pTOJGhzR77JnCgEdILKiJqg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Çarşı Mh., Bostancıpınarı Caddesi No:40"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.5369185,
+               "lng" : 31.9984436
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "adecc20f938426098eef3725024b45cdceaec0cf",
+         "name" : "Bace&Cake Boutique Cafe",
+         "photos" : [
+            {
+               "height" : 1243,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110600666879199087544/photos\"\u003eBace&amp;Cake Boutique Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA2xGR2i-ukBv1YAnNGkfy1UyrpYzQnpjhOblxRiKhcGP3uLVJMmYBYk8f5qreM4GBXmwwtQ3sfUu6ytflAVrXuKdIg4T2JytOd2W2pMd_Ne3-o0xlUEQFcNnC-s3oBwy9EhA6dBoAwZOUawxbTJlrvW0mGhQBB9FYAqnk1PLm0oPtJ3ODjwTtjQ",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJ3b_HCnSY3BQRvdY1gC-S4CE",
+         "reference" : "CnRqAAAAP7dJpt0ochnOnCVV-45qJqo6vjwxRD_XjNQiSppL5-zxwHua-KUHMzR4F-pI1WCXlubTCXkFt9YJlGkgZ7NnD90FU9wOck3K11y-EQsmgkU5R9zFxFJiRDLQHazwMo0CMo0iJbLhMiS2BR2zbgGLsRIQAG9P6KEoeqtdxA9s_JxWABoUAD7TJ6pWYZtBZkasDyy3FZyltTs",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "İskele Caddesi (Rıhtım Cd.)"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.54120699999999,
+               "lng" : 31.997812
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "df17a045d58f1dec53677df9f3dbc55b01403eac",
+         "name" : "The Lıght House Cafe",
+         "place_id" : "ChIJWeuOL3eY3BQRXQ33Q8llx78",
+         "reference" : "CnRpAAAABS9OyY4_VbltuRwo3RmBoBgj8R80UmL9UKn6ZzEmk45-n3iIPgV6mlJU5-_ZaTPkY4TuvOKzQ5YVM99G1lvxgGAC04witjc-sPlbED5Oy7De7MTwGpiHEG7JRzGt2WpxaAJKE7ZCnJJxCyDMwQr8DBIQBIPJWz3gUzw5zF0jX4JZmRoUh6ClQGjthd8u9sw1qAu3lvovFb0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Çarşı Mahallesi, İskele Caddesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.543616,
+               "lng" : 31.99013819999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ca977c25b731cc8a9decf5386c9bdb143999d982",
+         "name" : "Yosun Pastanesi",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101289964603621734306/photos\"\u003eYosun Pastanesi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAArDPqHD2hY2rgMEnUACYrHAcLZQriGAwalCkeLgbU7oBh9bg9Brjt9ouffIW1fMTCtp_7Ysv0zVGN8-YBTXbSwvYLUg7zXagAGOdoFJWkwIdK6b1YM9syFh_uk0LF2IPnEhC8TpUjyjeS1Yf8M9qAFcr7GhT4xPr9piEyZpB1DRBr7j6Zv9r5VA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJv74qHZ2i3BQRRGGJzkBIhLY",
+         "reference" : "CnRjAAAA9_17Cm-tVqor847Q1lcklZ6ELVmdrYp8CDZdw7YhMsLrF-wt9tlGG22ucYxEUvwdjdfnGX8BvOGePYa102Gx6fcjXGypgI6V8HLEYRjExZk1eemuBKQZ9ZRoHYHyWtBby5B5i7fpOV61AS_UyAyveBIQWlfOi57bsGeQMENfW-Ji-RoUEp7uxUqcAXH-guaa4Ueqoxuj7Cc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Çarşı Mahallesi, Damlataş Caddesi No:69"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.54674259999999,
+               "lng" : 31.9874355
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fe6bd861c69b4c9dd1bcd9707fcdea9d026b58cf",
+         "name" : "Kale Cafe & Fast Food",
+         "photos" : [
+            {
+               "height" : 1520,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101363315014290167302/photos\"\u003eLevent Olcay\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAj4GAzQbYQ4geB9EXHb2R840M6Aid8O_Y4lOnwb5FSgwEtHtWV-4guKhYqHFbn53-f9zdxtRQoQIDac4R7knRMI3M98pvZTPPVjn_JnnCLNw0LU0IgbBkjh9uOrQ7IFK7EhC3vL_d0xKQtKM89GEWYIXEGhQaSIpQTKGj32uYkLcSn9y0qX2xEQ",
+               "width" : 2688
+            }
+         ],
+         "place_id" : "ChIJ2-TNrDmZ3BQRckYK-8beg9Y",
+         "reference" : "CnRpAAAAdQeF6kg4B0lGAPseIofzr1HBY5BW_n51WXP7Ofwwx-NDjWAKbOkaw1TgkK06raPQN6rAA79XcHOjAsNzUJ_Xz2ZRwvU4_ZgwtGFr8_WNFqXnln-ySiGbkFuWCEJ4vuPHQOww2F6G4HkcsaovlQ7YzhIQ0IrwLsh4eSlacEGJrGp_MxoUWCLNDF7RJRtQNpERf2kRPyietLQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Atatürk Cad. 104/A"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.5525399,
+               "lng" : 31.9787352
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "2c02044150a6983809aee54a52b20747fc87d2b9",
+         "name" : "HANCI Pastanesi ( Otogar şube )",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 695,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102341058343107248790/photos\"\u003eHANCI Pastanesi ( Otogar şube )\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA5OSCAvGCMSp3JeTi8j2i63QsZTaAV3B_397Hu8mbxhzywXXF0PJAZLJehtfQN59AA_xvIkjfc7osjj_scdkLir8L5EfqfLm14NQbSrOH0tz4IKfDu-wGbXbjhNObi2VgEhC2bgHYrxliOnGGJjpoj6czGhRj1fOMX4ziC2bsTdr801-nC-R8Bg",
+               "width" : 1046
+            }
+         ],
+         "place_id" : "ChIJc5FJII-i3BQRj9RJQSbsKzA",
+         "rating" : 4.2,
+         "reference" : "CoQBcwAAABnvZ9MKT2dfQhnmz-s_kj5jzctM_ljdKHUzV7DMcshZ1lDCe_lrC1mgycAORcbuHM0zQdbX8abA8KMqFKPK8jqLzz1jQmTYAzWTD8ufIf8gMP3UUYhpPId9p-RwuH3LlrgDaRcvGIc1WcjDcfsQ_bTUQaMFxra2QoMUodSAU3WGEhBkBCCAbniF__mCmXvwQFAVGhQNEupOnXVA2R1kjvBD_H_st_5zCw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kızlar Pınarı Mahallesi, Şeyh Şamil Caddesi No:8"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.527829,
+               "lng" : 32.046507
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "23f2e35bcf7840ebd8123d88b24210b8a4561e5c",
+         "name" : "Relax Cafe Bar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107152033168626420318/photos\"\u003eRichard Lindskog\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAoGgactLbz3JDYXITw9Uj48LPQmTO1zO0Jy0Nclm-DtDnKmwU4_XhvXD7_FKZXHAmYmMKadMS0tA0jHobYJAVzFY55blUx-Nty5FWcLlCiz1kwBzrODEXUjFZvkn8tyD4EhB_AeUmI3e6gr-wwpEgY_oMGhQ0KvCaGs7JQBEQffzSDItVx1WJsA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ207OzbGZ3BQRyMp1dBu1aSg",
+         "reference" : "CnRhAAAAJLQ5xEXaRg-48XzZA47tqkO1bImgwHRe07rkrUczyTA51yT__V--qEvOW09CHxQT2Ee81usm73wPHQgEuXgsNbXaoRCZ1_uWGTKOOmtuyF1-qimdQGkyy1SUKRWJYMPqK7vQHvSuMjO5SCr8l9nTBRIQddWCfEaLtG9fHuZSuLOiJBoUM_jzvm2ImlV73HFPqn91H5ae7rs",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Tosmur / Alanya, Merkez Mh. 5. Sk. Billur Sitesi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.54409700000001,
+               "lng" : 32.029614
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6970b0c98048bdb7d792d539c319dc6b555e62f2",
+         "name" : "Kaptan Cafe",
+         "place_id" : "ChIJl1FWYviY3BQR4PSfyTi70K4",
+         "reference" : "CmRfAAAAPWhCUEXWxy6nKTVlnb0invcy-hJW76BEzddBAWIRqAQNTIXaq3hFWFiB7sRvMjzvdpbwacLJsbHwbJkHmlpqqvyhgnmyIWTnfl-nCvW9S7yXEya-6VzhDAFiqk-yWvs5EhAaL2vfxNultWX-YXPsKwlCGhS-G4rHICBriOEY-QiJktz28lL-7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Cumhuriyet Mh."
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 36.546675,
+               "lng" : 32.024993
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8060ff5b2bc7a7cc4941c1edf3526651604be1b3",
+         "name" : "Keyf-i Künefe Cikcilli",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101373774134061391759/photos\"\u003eKeyf-i Künefe Cikcilli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAIU5Ks1rr8tzAYQ9oXXJa2O90fbFBA7un3ZdaF9vSHscuGCkIlSX2zXueDT03xr0QSIzhYiv_SDF0oXse3BmXhs1-8z46rRAPab6ceKSz78nNuT1wWZ9PC1CdxGgHQfzkooKrD9CZppVr2O8V8ypNcuC1ara_Q_qbZB2DRsIZyJxEhDgIaxD-vwXuFzhmYJTBv_JGhS7IkkhpwsiV_thB_sOaAtZ9w9DVg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJhRn5pPeY3BQRt40lURv0S1w",
+         "reference" : "CnRqAAAAqNXtmIYYKM7AzLj7ABnGJI8QhJ8JGwWdZ62ZwlwLo0MgJCFrZ5k4HGe4XFZgKQINbfaQqIs8QRnFnAub662XKTabOWPH2rnOun-F3l6w0zj2jLmYMC-ZcjYCc0qfE__fGPs1VN7bryBn__DlQRS5sBIQHR0U0F6i4LXz78ib59MPehoUsubjW0iN9kyKYlJ0Un_OHh7lR44",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "store", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Cikcilli Mahallesi Hacıbaba Caddesi Güzeller Plaza No:1/A (Kipa Karşısı)"
+      }
+   ],
+   "status" : "OK"
+}
